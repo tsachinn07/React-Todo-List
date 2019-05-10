@@ -1,0 +1,49 @@
+body{
+  background-color: lightskyblue;
+
+}
+.App {
+  text-align: center;
+}
+
+input{
+  border:1px solid #eee;
+  border-radius: 20px;
+  height:36px;
+  padding:6px 12px;
+  margin: 20px;
+}
+button{
+  display: inline-block;
+  background-color: #eee;
+  border:1px solid #eee;
+  border-radius: 5px;
+  padding:6px 12px;
+  height:36px;
+}
+button:hover{
+  background-color: #ddd;
+  transition: .14s;
+  border:1px solid #ddd;
+}
+ol li{  
+  font-size: 16px;
+  text-align: left;
+  float:left;
+  width:100%;
+
+}
+li:hover{
+  color:#fff;
+  
+}
+span.close-icon{
+  
+  font-weight: 700;
+  line-height: 1;
+  color: black;
+  font-size: 16px;
+  margin: 4px 10px;
+}
+
+
